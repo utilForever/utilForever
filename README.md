@@ -32,20 +32,6 @@
 - Translator of [Optimized C++](http://www.yes24.com/Product/Goods/74971458) by Hanbit Media
 - Translator of C++ Crash Course (WIP) by Youngjin.com
 
-### ⚡ I'm currently making
-- [game-developer-roadmap - Roadmap to becoming a game developer in 2020](https://github.com/utilForever/game-developer-roadmap)
-- [CubbyFlow - Voxel-based fluid simulation engine for computer games](https://github.com/utilForever/CubbyFlow)
-- [RustyFlow - Re-implementation of CubbyFlow in Rust](https://github.com/utilForever/RustyFlow)
-- [CubbyDNN - Deep learning framework using C++17 in a single header file](https://github.com/utilForever/CubbyDNN)
-- [CubbyCity - Analyze the causes of urban engineering problems such as gentrification](https://github.com/utilForever/CubbyCity)
-- [RosettaStone - Hearthstone simulator using C++ with some reinforcement learning](https://github.com/utilForever/RosettaStone)
-- [baba-is-auto - Baba Is You simulator using C++ with some reinforcement learning](https://github.com/utilForever/baba-is-auto)
-- [PokeMaster - Pokemon Battle simulator using C++ with some reinforcement learning](https://github.com/utilForever/PokeMaster)
-- [conquer-the-spire - Slay the Spire simulator using C++ with some reinforcement learning](https://github.com/utilForever/conquer-the-spire)
-- [perfect-mario-maker - Super Mario Maker 2 simulator using C++ with some reinforcement learning](https://github.com/utilForever/perfect-mario-maker)
-- [AlphaTFT - Teamfight Tactics simulator using C++ with some reinforcement learning](https://github.com/utilForever/AlphaTFT)
-- [Runeterra - Legends of Runeterra simulator using Rust with some reinforcement learning](https://github.com/utilForever/Runeterra)
-
 ### 📫 How to reach me
 - Facebook: https://www.facebook.com/utilforever/
 - Twitter: https://twitter.com/utilforever
