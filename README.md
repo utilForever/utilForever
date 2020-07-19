@@ -9,6 +9,8 @@
 
 [![Github Followers](https://img.shields.io/github/followers/utilForever?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/utilForever?tab=followers)
 
+[![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&hide_border=true)](https://github.com/utilForever)
+
 ### 🔭 I’m currently working on
 - Nexon Korea since Sep 2015
 - Microsoft Developer Technologies MVP since Jul 2015
