@@ -1,6 +1,11 @@
-### Chris Ohk -- @utilForever
+### Chris Ohk -- @utilForever [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FutilForever)](https://github.com/utilForever)
 
 👋 Hi! Welcome to my Github profile!
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/utilforever/)](https://www.facebook.com/utilforever/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/utilforever/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)](https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utilForever@gmail.com)](mailto:utilForever@gmail.com)
 
 [![Github Followers](https://img.shields.io/github/followers/utilForever?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/utilForever?tab=followers)
 
@@ -33,9 +38,3 @@
 - Translator of [Discovering the Modern C++](http://www.yes24.com/Product/Goods/57615943) by Gilbut
 - Translator of [Optimized C++](http://www.yes24.com/Product/Goods/74971458) by Hanbit Media
 - Translator of C++ Crash Course (WIP) by Youngjin.com
-
-### 📫 How to reach me
-- Facebook: https://www.facebook.com/utilforever/
-- Twitter: https://twitter.com/utilforever
-- LinkedIn: https://www.linkedin.com/in/chan-ho-ohk-3a902a80/
-- Email: utilForever@gmail.com
