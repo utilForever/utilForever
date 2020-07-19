@@ -2,6 +2,8 @@
 
 👋 Hi! Welcome to my Github profile!
 
+[![Github Followers](https://img.shields.io/github/followers/utilForever?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/utilForever?tab=followers)
+
 ### 🔭 I’m currently working on
 - Nexon Korea since Sep 2015
 - Microsoft Developer Technologies MVP since Jul 2015
