@@ -27,6 +27,7 @@
 
 ### 👯 I’m looking to collaborate on
 - Founder & Administrator at [**C++ Korea**](https://www.facebook.com/groups/cppkorea)
+- Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
 - Mentor of Computer Engineering at [**Korea Scholar's Conference for Youth**](https://www.kscy.kr/)
 - Mentor of Reinforcement Learning at [Hanyang University - HAI](https://www.facebook.com/HanyangtechAI)
 - Translator of [GameSalad by Example Beginners Guide](http://www.yes24.com/Product/Goods/9263326) by Acron Publishing
