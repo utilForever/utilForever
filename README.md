@@ -30,8 +30,10 @@
 ### 👯 I’m looking to collaborate on
 - Founder & Administrator at [**C++ Korea**](https://www.facebook.com/groups/cppkorea)
 - Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
-- Mentor of Computer Engineering at [**Korea Scholar's Conference for Youth**](https://www.kscy.kr/)
-- Mentor of Reinforcement Learning at [**Korea Digital Media High School - Rendezvous**](https://www.facebook.com/Rendezvousindimigo/)
+- Leader of [RL Paper Review Study](https://github.com/utilForever/rl-paper-study)
+- Lecturer of Reinforcement Learning Study at [**KAIST - Include**](https://www.facebook.com/kaistinclude)
+- Mentor of Computer Engineering at [**Korea Scholar's Conference for Youth**](https://www.kscy.kr)
+- Mentor of Reinforcement Learning at [**Korea Digital Media High School - Rendezvous**](https://www.facebook.com/Rendezvousindimigo)
 - Mentor of Reinforcement Learning at [**Jeonbuk Science High School - R&E Team**](https://school.jbedu.kr/ejbs)
 - Translator of [**GameSalad by Example Beginners Guide**](http://www.yes24.com/Product/Goods/9263326) by Acron Publishing
 - Translator of [**Unity Shaders and Effects Cookbook**](http://www.yes24.com/Product/Goods/12743286) by Acron Publishing
