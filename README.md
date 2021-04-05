@@ -13,8 +13,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=utilForever&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&hide_border=true)](https://github.com/utilForever)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&hide_border=true&layout=compact)](https://github.com/utilForever)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/utilForever)
+
+[![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&theme=dracula)](https://github.com/utilForever)
 
 ### 🔭 I’m currently working on
 - Nexon Korea since Sep 2015
