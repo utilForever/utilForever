@@ -30,7 +30,7 @@
 ### 👯 I’m looking to collaborate on
 - Founder & Administrator at [**C++ Korea**](https://www.facebook.com/groups/cppkorea)
 - Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
-- Leader of [RL Paper Review Study](https://github.com/utilForever/rl-paper-study)
+- Leader of [**RL Paper Review Study**](https://github.com/utilForever/rl-paper-study)
 - Lecturer of Reinforcement Learning Study at [**KAIST - Include**](https://www.facebook.com/kaistinclude)
 - Mentor of Computer Engineering at [**Korea Scholar's Conference for Youth**](https://www.kscy.kr)
 - Mentor of Reinforcement Learning at [**Korea Digital Media High School - Rendezvous**](https://www.facebook.com/Rendezvousindimigo)
