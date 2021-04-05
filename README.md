@@ -16,7 +16,7 @@
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/utilForever)
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&theme=dracula)](https://github.com/utilForever)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&layout=compact&langs_count=8&theme=dracula)](https://github.com/utilForever)
 
 ### 🔭 I’m currently working on
 - Nexon Korea since Sep 2015
