@@ -21,7 +21,7 @@
 ### 🔭 I’m currently working on
 - Momenti Engine Engineer (Aug 2021 ~ Present)
 - Microsoft Developer Technologies MVP (Jul 2015 ~ Present)
-- Nexon Korea (Sep 2015 ~ Jul 2021)
+- Nexon Korea Game Client Programmer (Sep 2015 ~ Jul 2021)
 
 ### 🌱 I’m currently learning
 - Modern C++, C#, F#, Rust, Julia, Python, TypeScript
