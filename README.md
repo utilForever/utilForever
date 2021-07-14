@@ -19,8 +19,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&layout=compact&langs_count=8&theme=dracula)](https://github.com/utilForever)
 
 ### 🔭 I’m currently working on
-- Nexon Korea since Sep 2015
-- Microsoft Developer Technologies MVP since Jul 2015
+- Momenti Engine Engineer (Aug 2021 ~ Present)
+- Microsoft Developer Technologies MVP (Jul 2015 ~ Present)
+- Nexon Korea (Sep 2015 ~ Jul 2021)
 
 ### 🌱 I’m currently learning
 - Modern C++, C#, F#, Rust, Julia, Python, TypeScript
