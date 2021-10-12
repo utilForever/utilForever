@@ -18,6 +18,8 @@
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&layout=compact&langs_count=8&theme=dracula)](https://github.com/utilForever)
 
+![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=utilForever)
+
 ### 🔭 I’m currently working on
 - Momenti Engine Engineer (Aug 2021 ~ Present)
 - Nexon Korea Game Client Programmer (Sep 2015 ~ Jul 2021)
