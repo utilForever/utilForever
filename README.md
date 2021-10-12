@@ -2,6 +2,9 @@
 
 👋 Hi! Welcome to my Github profile!
 
+- [Repository for Curriculum Vitae](https://github.com/utilForever/CV)
+- [Repository for Presentations](https://github.com/utilForever/Presentations)
+
 ## ***"Behind every great agent there's a great environment" -- DeepMind***
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FutilForever)](https://github.com/utilForever)
