@@ -36,6 +36,7 @@
 - [**Microsoft Developer Technologies MVP**](https://mvp.microsoft.com)
 - Founder & Administrator at [**C++ Korea**](https://www.facebook.com/groups/cppkorea)
 - Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
+- Organizer of [**RustFest Global 2021**](https://rustfest.global/)
 - Leader of [**RL Paper Review Study**](https://github.com/utilForever/rl-paper-study)
 - Mentor of Computer Engineering at [**Korea Scholar's Conference for Youth**](https://www.kscy.kr)
 - Mentor of Reinforcement Learning at [**Jeonbuk Science High School - R&E Team**](https://school.jbedu.kr/ejbs)
