@@ -28,9 +28,9 @@
 - Nexon Korea Game Client Programmer (Sep 2015 ~ Jul 2021)
 
 ### 🌱 I’m currently learning
-- Modern C++, C#, F#, Rust, Julia, Python, TypeScript
-- Computer Graphics/Vision, Fluid Simulation
-- Reinforcement Learning, Natural Language Processing
+- Languages: Modern C++, C#, F#, Rust, Python, Typescript, Julia, Elixir, Nim, Zig
+- Topics #1: Computer Graphics / Vision, Game Physics, Game Simulation, Fluid Simulation
+- Topics #2: Compiler/Interpreter, Reinforcement Learning, Natural Language Processing
 
 ### 👯 I’m looking to collaborate on
 - [**Microsoft Developer Technologies MVP**](https://mvp.microsoft.com)
@@ -53,3 +53,4 @@
   - [**Discovering the Modern C++**](http://www.yes24.com/Product/Goods/57615943) by Gilbut
   - [**Optimized C++**](http://www.yes24.com/Product/Goods/74971458) by Hanbit Media
   - **C++ Crash Course (WIP)** by Youngjin.com
+  - **Rust for Rustaceans (WIP)** by Insight
