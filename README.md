@@ -20,6 +20,8 @@
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
 
+[![opgc](https://api.opgc.me/githubs/users/utilforever/tag/?border=normal)](https://opgc.me/#/users/utilforever)
+
 ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=utilForever)
 
 ### 🔭 I’m currently working on
