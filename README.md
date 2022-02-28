@@ -19,7 +19,6 @@
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=utilforever&theme=calm)](https://github.com/utilForever)
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilForever&layout=compact&langs_count=8&theme=dracula)](https://github.com/utilForever)
 
 ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=utilForever)
 
