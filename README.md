@@ -29,8 +29,6 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 
 [![opgc](https://api.opgc.me/githubs/users/utilforever/tag/?theme=dracula)](https://opgc.me/#/users/utilforever)
 
-![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=utilForever)
-
 ### 🔭 I’m currently working on
 - Momenti Engine Engineer (Aug 2021 ~ Present)
 - Nexon Korea Game Client Programmer (Sep 2015 ~ Jul 2021)
