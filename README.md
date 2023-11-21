@@ -2,7 +2,7 @@
 
 ### Chris Ohk -- @utilForever
 
-👋 Hello, I'm Chris Ohk. I'm currently working as an engine engineer at Momenti. I'm working on creating a Rust-based core engine and distributing / deploying it for use on cross-platforms such as iOS, Android and the web. I previously developed game contents and C++-based game physics engine for Mabinogi: Heroes at Nexon Korea.
+👋 Hello, I'm Chris Ohk. I previously developed game contents and C++-based game physics engine for Mabinogi: Heroes at Nexon Korea and Rust-based cross-platform interaction engine at Momenti Korea.
 
 I'm interested in various topics, so I'm developing various side projects in my spare time.
 * RosettaStone: Hearthstone simulator using C++ with some reinforcement learning
@@ -30,7 +30,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 [![opgc](https://api.opgc.me/githubs/users/utilforever/tag/?theme=dracula)](https://opgc.me/#/users/utilforever)
 
 ### 🔭 I’m currently working on
-- Momenti Engine Engineer (Aug 2021 ~ Present)
+- Momenti Engine Engineer (Aug 2021 ~ Nov 2023)
 - Nexon Korea Game Client Programmer (Sep 2015 ~ Jul 2021)
 
 ### 🌱 I’m currently learning
