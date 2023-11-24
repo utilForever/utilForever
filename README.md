@@ -43,9 +43,9 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 - Founder & Administrator at [**C++ Korea**](https://www.facebook.com/groups/cppkorea)
 - Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
 - Organizer of [**RustFest Global 2021**](https://rustfest.global/)
-- Leader of [**RL Paper Review Study**](https://github.com/utilForever/rl-paper-study)
-- Mentor of Computer Engineering at [**Korea Scholar's Conference for Youth**](https://www.kscy.kr)
-- Mentor of Reinforcement Learning at [**Jeonbuk Science High School - R&E Team**](https://school.jbedu.kr/ejbs)
+- Lecturer of Rust Programming Study at
+  - [**Korea University - GDSC**](https://www.instagram.com/gdg.koreauniv/)
+  - [**UNIST - HeXA**](https://hexa.pro/)
 - Lecturer of Reinforcement Learning Study at
   - [**KAIST - Include**](https://www.facebook.com/kaistinclude)
   - [**UNIST - HeXA**](https://www.facebook.com/unist.hexa)
@@ -58,5 +58,3 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
   - [**Rust Essentials**](https://www.hanbit.co.kr/store/books/look.php?p_code=E2088508957) by Hanbit Media
   - [**Discovering the Modern C++**](http://www.yes24.com/Product/Goods/57615943) by Gilbut
   - [**Optimized C++**](http://www.yes24.com/Product/Goods/74971458) by Hanbit Media
-  - **C++ Crash Course (WIP)** by Youngjin.com
-  - **Rust for Rustaceans (WIP)** by Insight
