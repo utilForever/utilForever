@@ -46,7 +46,10 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 - Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
 - Organizer of [**RustFest Global 2021**](https://rustfest.global/)
 - Lecturer of Rust Programming Study at
+  - [**Seoul National University - SCSC, Waffle Studio**](https://scsc.oopy.io/)
   - [**Korea University - GDSC**](https://www.instagram.com/gdg.koreauniv/)
+  - [**Korea University - MatKor**](https://www.matkor.kr/)
+  - [**Konkuk University - GDSC, EDGE**](https://www.instagram.com/gdsc.konkuk/)
   - [**UNIST - HeXA**](https://hexa.pro/)
 - Lecturer of Reinforcement Learning Study at
   - [**KAIST - Include**](https://www.facebook.com/kaistinclude)
