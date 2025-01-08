@@ -27,8 +27,6 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
 
-[![opgc](https://api.opgc.me/githubs/users/utilforever/tag/?theme=dracula)](https://opgc.me/#/users/utilforever)
-
 ### 🔭 I’m currently working on
 - 42dot Embedded Software Engineer (Sep 2024 ~ Present)
 - EJN Tech Lead (Dec 2023 ~ Jun 2024)
