@@ -14,7 +14,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 - [Repository for Curriculum Vitae](https://github.com/utilForever/CV)
 - [Repository for Presentations](https://github.com/utilForever/Presentations)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FutilForever)](https://github.com/utilForever)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FutilForever?color=blue&label=Hits&size=small)](https://myhits.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utilForever@gmail.com)](mailto:utilForever@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/utilforever/)](https://www.facebook.com/utilforever/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/utilforever/)
