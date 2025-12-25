@@ -23,7 +23,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=utilForever&theme=chalk&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![streak](https://github-readme-streak-stats-6wf2mjlf1-utilforevers-projects.vercel.app?user=utilForever&theme=rust-ferris-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-black-one.vercel.app?user=utilForever&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/utilForever)
 
