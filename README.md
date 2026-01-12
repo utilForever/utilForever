@@ -26,6 +26,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-black-one.vercel.app?user=utilForever&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
 
 [![utilForever's github stats](https://github-readme-stats-fast.vercel.app/api?username=utilForever&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU2MjI2NjE=)](https://www.git-ranker.com)
 
 ### 🔭 I’m currently working on
 - 42dot Embedded Software Engineer (Sep 2024 ~ Present)
