@@ -44,17 +44,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 - Founder & Administrator at [**C++ Korea**](https://www.facebook.com/groups/cppkorea)
 - Administrator at [**Reinforcement Learning KR**](https://www.facebook.com/groups/ReinforcementLearningKR)
 - Organizer of [**RustFest Global 2021**](https://rustfest.global/)
-- Lecturer of Rust Programming Study at
-  - [**Seoul National University - SCSC, Waffle Studio**](https://scsc.oopy.io/)
-  - [**Korea University - GDSC**](https://www.instagram.com/gdg.koreauniv/)
-  - [**Korea University - MatKor**](https://www.matkor.kr/)
-  - [**Konkuk University - GDSC, EDGE**](https://www.instagram.com/gdsc.konkuk/)
-  - [**UNIST - HeXA**](https://hexa.pro/)
-- Lecturer of Reinforcement Learning Study at
-  - [**KAIST - Include**](https://www.facebook.com/kaistinclude)
-  - [**UNIST - HeXA**](https://www.facebook.com/unist.hexa)
-  - [**Hanyang University - HAI**](https://www.facebook.com/HanyangtechAI)
-  - [**Jeonbuk Science High School**](https://school.jbedu.kr/ejbs)
+- Lecturer of Reinforcement Learning and C++/Rust-based projects at many universites
 - Translator of
   - [**GameSalad by Example Beginners Guide**](http://www.yes24.com/Product/Goods/9263326) by Acron Publishing
   - [**Unity Shaders and Effects Cookbook**](http://www.yes24.com/Product/Goods/12743286) by Acron Publishing
