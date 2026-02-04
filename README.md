@@ -2,7 +2,7 @@
 
 ### Chris Ohk -- @utilForever
 
-👋 Hello, I'm Chris Ohk. I'm currently working as a Embedded Software Engineer at 42dot. I previously developed game contents and C++-based game physics engine for Mabinogi: Heroes at Nexon Korea and Rust-based cross-platform interaction engine at Momenti Korea. Also, I established project specifications, technical direction and guided team members with troubleshooting technical issues at EJN.
+👋 Hello, I'm Chris Ohk. I'm currently preparing next chapter. I previously developed game contents and C++-based game physics engine for Mabinogi: Heroes at Nexon Korea and Rust-based cross-platform interaction engine at Momenti Korea. Also, I established project specifications, technical direction and guided team members with troubleshooting technical issues at EJN. Later, I worked as a Embedded Software Engineer at 42dot.
 
 I'm interested in various topics, so I'm developing various side projects in my spare time.
 * RosettaStone: Hearthstone simulator using C++ with some reinforcement learning
@@ -29,7 +29,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU2MjI2NjE=)](https://www.git-ranker.com)
 
 ### 🔭 I’m currently working on
-- 42dot Embedded Software Engineer (Sep 2024 ~ Present)
+- 42dot Embedded Software Engineer (Sep 2024 ~ Feb 2026)
 - EJN Tech Lead (Dec 2023 ~ Jun 2024)
 - Momenti Engine Engineer (Aug 2021 ~ Nov 2023)
 - Nexon Korea Game Client Programmer (Sep 2015 ~ Jul 2021)
