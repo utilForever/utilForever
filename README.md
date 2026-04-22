@@ -29,6 +29,7 @@ Also, I'm the representative of C++ Korea, a C++ user group for Korea and Micros
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU2MjI2NjE=)](https://www.git-ranker.com)
 
 ### 🔭 I’m currently working on
+- Hanyang University Visiting Senior Researcher (Apr 2026 ~ Current)
 - 42dot Embedded Software Engineer (Sep 2024 ~ Feb 2026)
 - EJN Tech Lead (Dec 2023 ~ Jun 2024)
 - Momenti Engine Engineer (Aug 2021 ~ Nov 2023)
