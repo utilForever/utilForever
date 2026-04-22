@@ -5,9 +5,12 @@
 👋 Hello, I'm Chris Ohk. I'm currently working as a Visiting Senior Researcher at Hanyang University. I previously developed game contents and C++-based game physics engine for Mabinogi: Heroes at Nexon Korea and Rust-based cross-platform interaction engine at Momenti Korea. Also, I established project specifications, technical direction and guided team members with troubleshooting technical issues at EJN. Later, I worked as a Embedded Software Engineer at 42dot.
 
 I'm interested in various topics, so I'm developing various side projects in my spare time.
-* RosettaStone: Hearthstone simulator using C++ with some reinforcement learning
-* CubbyFlow: Voxel-based fluid simulation engine for computer games
-* CubbyTower: Simple tower defense game using C++ with Entity Component System (ECS)
+* [RosettaStone](https://github.com/utilForever/RosettaStone): Hearthstone simulator using C++ with some reinforcement learning
+* [CubbyFlow](https://github.com/utilForever/CubbyFlow): Voxel-based fluid simulation engine for computer games
+* [baba-is-auto](https://github.com/utilForever/baba-is-auto): Baba Is You simulator using C++ with some reinforcement learning
+* [CubbyTower](https://github.com/utilForever/CubbyTower): Simple tower defense game using C++ with Entity Component System (ECS)
+* [minecraft-rs](https://github.com/utilForever/minecraft-rs): A simple Minecraft written in Rust from scratch
+* [focustime](https://github.com/utilForever/focustime): TUI-based application for ⏱ Pomodoro + 🚫 Site Blocking + 📊 WakaTime Tracking
 
 Also, I'm the representative of C++ Korea, a C++ user group for Korea and Microsoft Developer Technologies MVP.
 
